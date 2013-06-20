@@ -48,7 +48,7 @@ Verified on :
 5. Configure JVM in jenv
 
 	~~~  sh
-	    $ jenv add /path/to/java/home
+	    $ jenv add oracle-1.7.0 /path/to/java/1.7.0/home/
 	~~~
 
 6. Configure which JVM to use (globally, by directory or for the current shell instance)
